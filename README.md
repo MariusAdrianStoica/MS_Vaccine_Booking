@@ -18,5 +18,5 @@ App should generate a booking list automatically for specific days....
 -  As an admin, I should be able to create a patient and find patient by id.
 -  and...
 
-### Domain model
-![domain-model](/image/Sequencers.png)
+### Class diagram
+![class-diagram](/image/domain_model.png)
